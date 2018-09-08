@@ -11,5 +11,5 @@ function logShout(string) {
 }
 
 function logWhipser(string) {
-  console.log
+  console.logWhipser(string) 
 }
